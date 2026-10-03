@@ -29,14 +29,16 @@ This project was created to practice how objects relate to each other in Java: a
 1. Clone the repository:
 
 git clone https://github.com/MicaelMoras/ExercicioDeAssociacao.git
+
 2. The files use package ExercicioDeAssociacao;, so keep them inside a folder with that name.
+   
 3. From the parent folder, compile and run:
 
 javac ExercicioDeAssociacao/*.java
 java ExercicioDeAssociacao.AssociacaoTeste
 
 
-## 🗺️ Roadmap
+ 🗺️ Roadmap
 
 -  Classes Aluno, Professor, Seminario and Local
 -  Associations between the classes
